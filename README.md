@@ -57,15 +57,11 @@ streamlit run flight_search_ui.py
 
 ## 🖼 Sample Screenshot
 
-> Replace this image with your screenshot of the Streamlit output.
-
 <img width="844" alt="Screenshot 2025-04-30 at 4 22 25 PM" src="https://github.com/user-attachments/assets/3e6cc192-e7e1-4d02-9806-5bf0a55f3c8c" />
 
 ---
 
 ## 🔁 Flow Diagram
-
-> Replace this with a diagram showing how data flows between user → Streamlit → Gemini → MCP → SERP API.
 
 <img width="1277" alt="Screenshot 2025-04-30 at 4 02 40 PM" src="https://github.com/user-attachments/assets/3b2f192e-cee9-4e01-84c9-8fe49e2964e3" />
 
