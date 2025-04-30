@@ -1,6 +1,6 @@
 # ✈️ Flight Search Assistant (Powered by Gemini + MCP)
 
-This is a simple and powerful Streamlit-based flight search tool that uses **Google's Gemini AI model** and **MCP (Modular Command Platform)** to find real-time flight information using natural language queries.
+This is a simple and powerful Streamlit-based flight search tool that uses **Google's Gemini AI model** and **MCP (Model Context Protocol)** to find real-time flight information using natural language queries.
 
 Users can search for flights like:
 
@@ -72,7 +72,7 @@ streamlit run flight_search_ui.py
 1. User enters a natural language query.
 2. Streamlit sends the query to Gemini 2.5.
 3. Gemini interprets the query and generates a function call (tool use).
-4. The tool is executed via MCP (`mcp-flight-search`) which fetches data from SERP API.
+4. The tool is executed via MCP Server (`mcp-flight-search`) which fetches data from SERP API.
 5. The response is formatted and shown in the Streamlit UI.
 
 ---
