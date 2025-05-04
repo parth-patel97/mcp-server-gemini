@@ -26,8 +26,8 @@ Gemini interprets the query, identifies the right function/tool to use, and fetc
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/flight-search-assistant.git
-cd flight-search-assistant
+git clone https://github.com/parth-patel97/mcp-server-gemini.git
+cd mcp-server-gemini
 ```
 
 ### 2. Install dependencies
